@@ -57,6 +57,10 @@
      <Compile Include="Assets\MeshDeformer.cs" />
      <Compile Include="Assets\MeshDeformerInput.cs" />
      <Compile Include="Assets\RoundedCube.cs" />
+     <Compile Include="Assets\script\BallInit.cs" />
+     <Compile Include="Assets\script\BallMove.cs" />
+     <Compile Include="Assets\script\Bezier.cs" />
+     <Compile Include="Assets\script\MyBezier.cs" />
      <None Include="Assets\Rounded Cube Grid.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/mac/projects/softTouch/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
